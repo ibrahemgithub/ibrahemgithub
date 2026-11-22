@@ -1,4 +1,4 @@
-# 💫 About Me:
+ # 💫 About Me:
 I'm a Web Developer with a Bachelor's degree in Computer Science and Management Information Systems. I build responsive, clean, and user-friendly websites and web applications using HTML5, CSS3, JavaScript, React and Tailwind CSS, with SQL and Python for working with data.<br> <br>Before moving fully into development, I worked in tourism and hospitality and in sales and marketing. Those roles taught me how to communicate clearly with clients, work in a team, meet deadlines, and solve problems quickly. I bring the same approach to my code: understand what the user needs, then build something simple that works.<br> <br>I'm comfortable with Git and GitHub, Chrome DevTools, Figma, and Microsoft Office, including advanced Excel.<br> <br>I'm ready to join a team where I can contribute, keep learning, and grow as a developer. I'm open to new opportunities, whether full-time, remote, or freelance.<br> <br>📩 Email: arr43280@gmail.com
 
 
